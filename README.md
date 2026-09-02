@@ -47,17 +47,6 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guxtavoix&show_icons=true&theme=default" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guxtavoix" />
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="left">
