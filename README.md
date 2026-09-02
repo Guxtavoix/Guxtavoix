@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
-> Ajuste essa lista conforme as linguagens/ferramentas que você for estudando ao longo do curso.
-
 ---
 
 ### 📌 Projetos em destaque
