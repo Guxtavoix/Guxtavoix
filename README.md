@@ -45,6 +45,9 @@
 - **[Aula Python](https://github.com/Guxtavoix/Aula-Phyton-01-09)** — Coleção de exercícios práticos em Python, com resolução de questões lógicas e algorítmicas para fixação dos fundamentos da linguagem.
   `Python`
 
+- **[Valida CPF](https://github.com/Guxtavoix/Valida-CPF)** — Validador de CPF simples para inclusão em projetos voltados para cadastro de clientes para minimizar erros em cadastros.
+  `Python`
+
 - **[Controle Diário](https://github.com/Guxtavoix/controle-diario)** — Gerenciador de tarefas moderno com persistência em LocalStorage, grid responsivo adaptável para mobile, filtros avançados múltiplos por status/tipo e suporte a modo escuro.
   `Next.js` `React` `Tailwind CSS` `Shadcn/UI` `TypeScript`
 
