@@ -51,6 +51,9 @@
 - **[Controle Diário](https://github.com/Guxtavoix/controle-diario)** — Gerenciador de tarefas moderno com persistência em LocalStorage, grid responsivo adaptável para mobile, filtros avançados múltiplos por status/tipo e suporte a modo escuro.
   `Next.js` `React` `Tailwind CSS` `Shadcn/UI` `TypeScript`
 
+- **[App Treino](https://github.com/Guxtavoix/app-treino)** — PWA mobile-first para acompanhar treino em casa e peso: treino do dia com checklist de séries e timer de descanso com vibração, gráfico de peso com média móvel de 7 dias e meta, histórico com calendário e sequência de semanas. Login com e-mail e senha e dados protegidos por Row Level Security, com deploy contínuo na Vercel.
+  `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `Recharts` `PWA`
+
 ---
 
 ### 📫 Contato
